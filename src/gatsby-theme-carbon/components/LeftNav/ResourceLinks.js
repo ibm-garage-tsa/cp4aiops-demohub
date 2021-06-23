@@ -3,12 +3,16 @@ import ResourceLinks from 'gatsby-theme-carbon/src/components/LeftNav/ResourceLi
 
 const links = [
   {
-    title: 'IBM Cloud',
-    href: 'https://cloud.ibm.com/',
+    title: 'Cloud Pak Home',
+    href: 'https://www.ibm.com/cloud/cloud-pak-for-integration',
   },
   {
-    title: 'IBM Cloud Paks',
-    href: 'https://www.ibm.com/cloud/paks/',
+    title: 'Virtual Saleskit - Seismic',
+    href: 'https://ibm.seismic.com/Link/Content/DCgWId6Bmb_0GHYHLhF0EJvg',
+  },
+  {
+    title: 'Activation - DTE 2.0',
+    href: 'https://dte2.us1a.cirrus.ibm.com/collection/cloud-pak-for-integration-activation-kit',
   }
 ];
 

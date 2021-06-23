@@ -5,11 +5,17 @@ import { calloutLink } from './Homepage.module.scss';
 
 import Carbon from '../../images/cloud-data.jpg';
 
-const FirstLeftText = () => <p>DemoHub is designed to be a single point of access for all Demo Assets about IBM Cloud Pak for Watson AIOps</p>;
+const FirstLeftText = () => <p>What is IBM Cloud Pak for Integration?</p>;
 
 const FirstRightText = () => (
   <p>
-    Are you aware that you can have a Cloud Pak for Watson AIOps on ROKS only for you? Here you will see how to request your environment and explore other assets to support your sales opportunity
+    A complete set of integration capabilities to efficiently connect your applications and data wherever they live.
+    <a
+      className={calloutLink}
+      href="https://www.ibm.com/cloud/cloud-pak-for-integration"
+    >
+      Overview →
+    </a>
   </p>
 );
 
@@ -27,7 +33,7 @@ const SecondRightText = () => (
   </p>
 );
 
-const BannerText = () => <h1>IBM Cloud Pak for Watson AIOps</h1>;
+const BannerText = () => <h1>IBM Cloud Pak for Integration</h1>;
 
 const customProps = {
   Banner: <HomepageBanner renderText={BannerText} image={Carbon} />,
