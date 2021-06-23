@@ -11,7 +11,7 @@ IBM Cloud Pak for Watson AIOps 2.x on Skytap
 
 ## Cloud Pak for MCM Bootcamp
 
-The course materials can be viewed at- [https://ibm-garage-tsa.github.io/cp4mcm-demohub/](https://ibm-garage-tsa.github.io/cp4mcm-demohub/)
+The course materials can be viewed at- [https://ibm-garage-tsa.github.io/cp4aiops-demohub/](https://ibm-garage-tsa.github.io/cp4aiops-demohub/)
 
 
 ### Contributors

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Cloud Pak for MCM 2.x on Skytap',
+    title: 'Cloud Pak for Watson AIOPs',
     description: 'DemoHub for Cloud Pak for Watson AIOps',
     keywords: 'ibm,mcm,carbon',
   },
@@ -19,12 +19,12 @@ module.exports = {
     isSearchEnabled: true,
     repository: {
       baseUrl:
-        'https://github.com/ibm-garage-tsa/cp4mcm-demohub',
+        'https://github.com/ibm-garage-tsa/cp4aiops-demohub',
       subDirectory: '/',
       branch: 'master'
     },
   },
 }
 ],
-pathPrefix: "/cp4mcm-demohub",
+pathPrefix: "/cp4aiops-demohub",
 };
